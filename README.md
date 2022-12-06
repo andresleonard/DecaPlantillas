@@ -6,7 +6,7 @@ Extensión para poder generar de manera más rápida los mail de Decamerón.
 
 Puede crear cualquier de las plantillas de cada país utilizando el auto-completado de vscode, por ejemplo "decameronAgenciasCeca"
 
-![ejemplo](assets/ejemplo.gif)
+![ejemplo](https://raw.githubusercontent.com/andresleonard/DecaPlantillas/main/assets/ejemplo.gif?token=GHSAT0AAAAAAB3QOHW2TIO2HIPCPTZ45XPSY4PUHBA)
 
 todos los autocompletados para los mail comienza con "decameron" seguido del nombre del pais o plantilla que necesita todo pegado: "decameronAgenciasCeca", "decameronColombia", "decameronCronometro"...
 
