@@ -1,0 +1,21 @@
+{
+  "name": "decameronPlantillas",
+  "displayName": "decameronPlantillas",
+  "description": "Plantillas para decameron",
+  "version": "0.0.1",
+  "icon": "assets/decameron.png",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "mjml",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
