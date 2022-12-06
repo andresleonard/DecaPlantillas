@@ -1,14 +1,15 @@
-# mjml4decameron README
-
+# mjml4decameron
 Extensión para poder generar de manera más rápida los mail de Decamerón.
 
-## Features/Caracteristicas
+## Caracteristicas
 
-Puede crear cualquier de las plantillas de cada país utilizando el auto-completado de vscode, por ejemplo "decameronAgenciasCeca"
+Puede crear cualquier de las plantillas de cada país utilizando el auto-completado de vscode, por ejemplo "decameronColombia":
 
 ![ejemplo](https://raw.githubusercontent.com/andresleonard/DecaPlantillas/main/assets/ejemplo.gif?token=GHSAT0AAAAAAB3QOHW2TIO2HIPCPTZ45XPSY4PUHBA)
 
-todos los autocompletados para los mail comienza con "decameron" seguido del nombre del pais o plantilla que necesita todo pegado: "decameronAgenciasCeca", "decameronColombia", "decameronCronometro"...
+[ver imagen](https://raw.githubusercontent.com/andresleonard/DecaPlantillas/main/assets/ejemplo.gif?token=GHSAT0AAAAAAB3QOHW2TIO2HIPCPTZ45XPSY4PUHBA)
+
+Todos los autocompletados para los mail comienza con "decameron" seguido del nombre del pais o plantilla que necesita todo pegado: "decameronAgenciasCeca", "decameronColombia", "decameronCronometro"...
 
 ### Lista de Auto-completado que pueden usar
 - decameronAgenciasCeca
@@ -35,16 +36,17 @@ todos los autocompletados para los mail comienza con "decameron" seguido del nom
 
 
 
-## Requirements/Requerimientos
+## Requerimientos
 
 Para poder trabajar correctamente con esta extensión se necesita instalar:
+- [vscode](https://code.visualstudio.com/)
 - [node.js](https://nodejs.org/en/)
 - [mjml](https://mjml.io/download) (paquete de instalación con el cual vscode reconoce la sintaxis y archivos mjml)
-- Prettier extensión (Esto ajusta las lineas de codigo para que se pueda leer mejor al momento de editar)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) extensión (Esto ajusta las lineas de codigo para que se pueda leer mejor al momento de editar)
 
 ## Errores conocidos
 
-Por ahora no se han descubierto errores
+Por ahora no se han descubierto errores.
 
 ## Mas información 
 
