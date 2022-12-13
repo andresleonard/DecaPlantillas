@@ -40,8 +40,7 @@ Todos los autocompletados para los mail comienza con "decameron" seguido del nom
 
 Para poder trabajar correctamente con esta extensión se necesita instalar:
 - [vscode](https://code.visualstudio.com/)
-- [node.js](https://nodejs.org/en/)
-- [mjml](https://mjml.io/download) (paquete de instalación con el cual vscode reconoce la sintaxis y archivos mjml)
+- [MJML](https://marketplace.visualstudio.com/items?itemName=mjmlio.vscode-mjml) (paquete de instalación con el cual vscode reconoce la sintaxis y archivos mjml)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) extensión (Esto ajusta las lineas de codigo para que se pueda leer mejor al momento de editar)
 
 ## Errores conocidos

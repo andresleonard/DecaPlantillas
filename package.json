@@ -4,9 +4,13 @@
   "description": "Plantillas para decameron",
   "version": "0.0.1",
   "icon": "assets/decameron.png",
+  "publisher": "https://github.com/andresleonard/DecaPlantillas",
   "engines": {
     "vscode": "^1.73.0"
   },
+  "activationEvents": [
+  ],
+  "main": "",
   "categories": [
     "Snippets"
   ],
@@ -17,5 +21,10 @@
         "path": "./snippets/snippets.code-snippets"
       }
     ]
+  },
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^18.11.11",
+    "@types/vscode": "^1.32.0"
   }
 }
